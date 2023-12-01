@@ -22,3 +22,10 @@ Other assets were created by me using Adobe Photoshop.
 # Additional features
 - Endgame screen stating the winner with a possibility to start a new game with a press of the button
 - Ability to revert moves by pressing **R**
+
+# Example screenshots
+
+![Example 1](ExampleScreenshots/example1.png)
+![Example 2](ExampleScreenshots/example2.png)
+![Example 3](ExampleScreenshots/example3.png)
+![Example 4](ExampleScreenshots/example4.png)
