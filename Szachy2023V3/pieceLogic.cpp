@@ -127,13 +127,13 @@ bool ChessGame::pawnRuleCheck(MoveLog::move_t * move)
 			return true;
 		if (dc == 1 && dr == -1 && rightUp != nullptr && rightUp->color == !move->piece->color)
 			return true;
-		if (dc == 1 && dr == -1 && right != nullptr && rightUp == nullptr && lastMove != nullptr && right == lastMove->piece && right->type == pawn && right->timesMoved == 1)
+		if (dc == 1 && dr == -1 && right != nullptr && rightUp == nullptr && lastMove != nullptr && right == lastMove->piece && right->type == pawn && right->timesMoved == 1 && right->getPosAsField().row == 3)
 		{
 			move->isEnPassanteMove = right;
 			return true;
 		}
 			
-		if (dc == -1 && dr == -1 && left != nullptr && leftUp == nullptr && lastMove != nullptr && left == lastMove->piece && left->type == pawn && left->timesMoved == 1)
+		if (dc == -1 && dr == -1 && left != nullptr && leftUp == nullptr && lastMove != nullptr && left == lastMove->piece && left->type == pawn && left->timesMoved == 1 && left->getPosAsField().row == 3)
 		{
 			move->isEnPassanteMove = left;
 			return true;
@@ -161,13 +161,13 @@ bool ChessGame::pawnRuleCheck(MoveLog::move_t * move)
 			return true;
 		if (dc == 1 && dr == 1 && rightDown != nullptr && rightDown->color == !move->piece->color)
 			return true;
-		if (dc == 1 && dr == 1 && right != nullptr && rightDown == nullptr && lastMove != nullptr && right == lastMove->piece && right->type == pawn && right->timesMoved == 1)
+		if (dc == 1 && dr == 1 && right != nullptr && rightDown == nullptr && lastMove != nullptr && right == lastMove->piece && right->type == pawn && right->timesMoved == 1 && right->getPosAsField().row == 4)
 		{
 			move->isEnPassanteMove = right;
 			return true;
 		}
 		
-		if (dc == -1 && dr == 1 && left != nullptr && leftDown == nullptr && lastMove != nullptr && left == lastMove->piece && left->type == pawn && left->timesMoved == 1)
+		if (dc == -1 && dr == 1 && left != nullptr && leftDown == nullptr && lastMove != nullptr && left == lastMove->piece && left->type == pawn && left->timesMoved == 1 && left->getPosAsField().row == 4)
 		{
 			move->isEnPassanteMove = left;
 			return true;
