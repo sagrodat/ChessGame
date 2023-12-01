@@ -1,0 +1,19 @@
+﻿  Board.cpp
+E:\Materialy\szkola\szkola wazne\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\Szachy2023V3\Szachy2023V3\Board.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  ChessGame.cpp
+E:\Materialy\szkola\szkola wazne\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\Szachy2023V3\Szachy2023V3\Board.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  drawing.cpp
+E:\Materialy\szkola\szkola wazne\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\Szachy2023V3\Szachy2023V3\drawing.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  main.cpp
+E:\Materialy\szkola\szkola wazne\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\Szachy2023V3\Szachy2023V3\mainHeaders.h(3,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  movingPieces.cpp
+E:\Materialy\szkola\szkola wazne\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\Szachy2023V3\Szachy2023V3\Board.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  myMouse.cpp
+E:\Materialy\szkola\szkola wazne\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\Szachy2023V3\Szachy2023V3\myMouse.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  Piece.cpp
+E:\Materialy\szkola\szkola wazne\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\Szachy2023V3\Szachy2023V3\Piece.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  Pieces.cpp
+E:\Materialy\szkola\szkola wazne\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\Szachy2023V3\Szachy2023V3\Piece.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  printing.cpp
+E:\Materialy\szkola\szkola wazne\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\Szachy2023V3\Szachy2023V3\Board.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  Generowanie kodu...

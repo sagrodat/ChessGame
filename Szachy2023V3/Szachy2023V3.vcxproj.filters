@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Classes">
+      <UniqueIdentifier>{e4c93b95-5423-47fd-8073-1fb8fb14197f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Classes">
+      <UniqueIdentifier>{a25baf01-f9c1-41a9-ab0a-c3403a005bae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Classes\ChessGame">
+      <UniqueIdentifier>{822cad85-9dec-45f2-8c6e-f5b9a013969c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Utility">
+      <UniqueIdentifier>{52d7d03f-7ea9-47ca-a78d-4d749831fce1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Classes\SingleFileClasses">
+      <UniqueIdentifier>{32ac0166-a86a-4b97-9b70-f402e78379a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Classes\ChessGame\Other">
+      <UniqueIdentifier>{b9fa99c9-d9f7-4919-88bd-8d6ce7a4fc16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Testing">
+      <UniqueIdentifier>{3bbc69be-4386-42fe-bfd8-c08f7d648307}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Testing">
+      <UniqueIdentifier>{7a6e28a3-6a25-44f1-b6a6-fddb85be4c6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Classes\ChessGame\MoveLegalChecking">
+      <UniqueIdentifier>{ff3e17dd-3592-41c2-aa7e-328a6f61a320}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Other">
+      <UniqueIdentifier>{f43f2082-2a94-4721-b023-d50260f49de8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="drawing.cpp">
+      <Filter>Pliki źródłowe\Other</Filter>
+    </ClCompile>
+    <ClCompile Include="Board.cpp">
+      <Filter>Pliki źródłowe\Classes\SingleFileClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="myMouse.cpp">
+      <Filter>Pliki źródłowe\Classes\SingleFileClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="Piece.cpp">
+      <Filter>Pliki źródłowe\Classes\SingleFileClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="Pieces.cpp">
+      <Filter>Pliki źródłowe\Classes\SingleFileClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="isMoveLegal.cpp">
+      <Filter>Pliki źródłowe\Classes\ChessGame\MoveLegalChecking</Filter>
+    </ClCompile>
+    <ClCompile Include="kingStatus.cpp">
+      <Filter>Pliki źródłowe\Classes\ChessGame\MoveLegalChecking</Filter>
+    </ClCompile>
+    <ClCompile Include="ChessGame.cpp">
+      <Filter>Pliki źródłowe\Classes\ChessGame\Other</Filter>
+    </ClCompile>
+    <ClCompile Include="movingPieces.cpp">
+      <Filter>Pliki źródłowe\Classes\ChessGame\Other</Filter>
+    </ClCompile>
+    <ClCompile Include="Tests.cpp">
+      <Filter>Pliki źródłowe\Testing</Filter>
+    </ClCompile>
+    <ClCompile Include="MoveLog.cpp">
+      <Filter>Pliki źródłowe\Classes\SingleFileClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="Printer.cpp">
+      <Filter>Pliki źródłowe\Classes\SingleFileClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="pieceLogic.cpp">
+      <Filter>Pliki źródłowe\Classes\ChessGame\MoveLegalChecking</Filter>
+    </ClCompile>
+    <ClCompile Include="utilityFunctions.cpp">
+      <Filter>Pliki źródłowe\Other</Filter>
+    </ClCompile>
+    <ClCompile Include="EndScreens.cpp">
+      <Filter>Pliki źródłowe\Classes\SingleFileClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundEffects.cpp">
+      <Filter>Pliki źródłowe\Classes\SingleFileClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="AssetsPath.cpp">
+      <Filter>Pliki źródłowe\Classes\SingleFileClasses</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Board.h">
+      <Filter>Pliki nagłówkowe\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="myMouse.h">
+      <Filter>Pliki nagłówkowe\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Piece.h">
+      <Filter>Pliki nagłówkowe\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Pieces.h">
+      <Filter>Pliki nagłówkowe\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="PieceSpritesTextures.h">
+      <Filter>Pliki nagłówkowe\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="ChessGame.h">
+      <Filter>Pliki nagłówkowe\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Tests.h">
+      <Filter>Pliki nagłówkowe\Testing</Filter>
+    </ClInclude>
+    <ClInclude Include="MoveLog.h">
+      <Filter>Pliki nagłówkowe\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="global.h">
+      <Filter>Pliki nagłówkowe\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="sfmlObjects.h">
+      <Filter>Pliki nagłówkowe\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Printer.h">
+      <Filter>Pliki nagłówkowe\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="utilityFunctions.h">
+      <Filter>Pliki nagłówkowe\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="drawing.h">
+      <Filter>Pliki nagłówkowe\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="EndScreens.h">
+      <Filter>Pliki nagłówkowe\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundEffects.h">
+      <Filter>Pliki nagłówkowe\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="AssetsPath.h">
+      <Filter>Pliki nagłówkowe\Classes</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
