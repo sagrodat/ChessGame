@@ -1,19 +1,37 @@
-﻿  Board.cpp
-E:\Materialy\szkola\szkola wazne\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\Szachy2023V3\Szachy2023V3\Board.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (Szachy2023V3.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  AssetsPath.cpp
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame\Project\Szachy2023V3\AssetsPath.h(18,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  Board.cpp
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame\Project\Szachy2023V3\Board.h(2,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
   ChessGame.cpp
-E:\Materialy\szkola\szkola wazne\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\Szachy2023V3\Szachy2023V3\Board.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame\Project\Szachy2023V3\Board.h(2,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
   drawing.cpp
-E:\Materialy\szkola\szkola wazne\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\Szachy2023V3\Szachy2023V3\drawing.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame\Project\Szachy2023V3\Board.h(2,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  EndScreens.cpp
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame\Project\Szachy2023V3\endScreens.h(3,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML\Graphics.hpp': No such file or directory
+  pieceLogic.cpp
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame\Project\Szachy2023V3\Board.h(2,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  kingStatus.cpp
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame\Project\Szachy2023V3\Board.h(2,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
   main.cpp
-E:\Materialy\szkola\szkola wazne\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\Szachy2023V3\Szachy2023V3\mainHeaders.h(3,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame\Project\Szachy2023V3\main.cpp(3,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  MoveLog.cpp
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame\Project\Szachy2023V3\Piece.h(2,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
   movingPieces.cpp
-E:\Materialy\szkola\szkola wazne\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\Szachy2023V3\Szachy2023V3\Board.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame\Project\Szachy2023V3\Board.h(2,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
   myMouse.cpp
-E:\Materialy\szkola\szkola wazne\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\Szachy2023V3\Szachy2023V3\myMouse.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame\Project\Szachy2023V3\myMouse.h(2,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
   Piece.cpp
-E:\Materialy\szkola\szkola wazne\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\Szachy2023V3\Szachy2023V3\Piece.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame\Project\Szachy2023V3\Piece.h(2,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
   Pieces.cpp
-E:\Materialy\szkola\szkola wazne\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\Szachy2023V3\Szachy2023V3\Piece.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
-  printing.cpp
-E:\Materialy\szkola\szkola wazne\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\Szachy2023V3\Szachy2023V3\Board.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame\Project\Szachy2023V3\Piece.h(2,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  isMoveLegal.cpp
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame\Project\Szachy2023V3\Board.h(2,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  Printer.cpp
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame\Project\Szachy2023V3\Piece.h(2,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  SoundEffects.cpp
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame\Project\Szachy2023V3\SoundEffects.h(2,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Audio.hpp': No such file or directory
+  Tests.cpp
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame\Project\Szachy2023V3\Board.h(2,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  utilityFunctions.cpp
   Generowanie kodu...

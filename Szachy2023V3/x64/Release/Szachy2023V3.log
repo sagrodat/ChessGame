@@ -1,7 +1,147 @@
-﻿  ChessGame.cpp
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Katalog pośredni (x64\Release\) zawiera pliki udostępnione z innego projektu (ChessGame.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  AssetsPath.cpp
+  Board.cpp
+  ChessGame.cpp
+  drawing.cpp
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\drawing.cpp(41,25): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\drawing.cpp(42,25): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\drawing.cpp(55,28): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\drawing.cpp(56,28): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  EndScreens.cpp
+  pieceLogic.cpp
+  kingStatus.cpp
+  main.cpp
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\main.cpp(87,14): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\main.cpp(88,14): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\main.cpp(89,67): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\main.cpp(89,61): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  MoveLog.cpp
+  movingPieces.cpp
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\movingPieces.cpp(49,80): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\movingPieces.cpp(49,56): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\movingPieces.cpp(50,86): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\movingPieces.cpp(50,62): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\movingPieces.cpp(132,61): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\movingPieces.cpp(132,44): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\movingPieces.cpp(196,13): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\movingPieces.cpp(198,57): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\movingPieces.cpp(198,34): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  myMouse.cpp
+  Piece.cpp
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\Piece.cpp(8,37): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\Piece.cpp(8,34): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\Piece.cpp(9,42): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\Piece.cpp(9,39): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\Piece.cpp(26,10): warning C4101: "field": lokalna zmienna, do której nie istnieje odwołanie
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\Piece.cpp(36,61): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\Piece.cpp(36,44): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\Piece.cpp(45,39): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\Piece.cpp(46,39): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Pieces.cpp
+  isMoveLegal.cpp
+  Printer.cpp
+  SoundEffects.cpp
+  Tests.cpp
+  utilityFunctions.cpp
   Trwa generowanie kodu
-  0 of 388 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\Szachy2023V3\ChessGame.cpp(59): warning C4715: "ChessGame::getEnemyColor”: niewszystkie ścieżki kodu zwracają wartość
+  All 388 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Zakończono generowanie kodu
-  Szachy2023V3.vcxproj -> E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\Szachy2023V3\x64\Release\Szachy2023V3.exe
+  Szachy2023V3.vcxproj -> E:\INFORMATYKA\PROGRAMOWANIE\C++\VISUAL STUDIO C++\PROJEKTY\ChessGame — kopia\Project\x64\Release\Szachy2023V3.exe
