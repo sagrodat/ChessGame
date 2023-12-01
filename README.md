@@ -25,7 +25,7 @@ Other assets were created by me using Adobe Photoshop.
 
 # Example screenshots
 
+![Example 4](ExampleScreenshots/example4.png)
 ![Example 1](ExampleScreenshots/example1.png)
 ![Example 2](ExampleScreenshots/example2.png)
 ![Example 3](ExampleScreenshots/example3.png)
-![Example 4](ExampleScreenshots/example4.png)
