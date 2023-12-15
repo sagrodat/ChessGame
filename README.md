@@ -2,7 +2,7 @@
 ## Description
 This is my first ambitious game project using C++ and the SFML library.
 In the code I've used classes to represent different parts of the application.
-The chess contain all abilities that are required for the average playing experience :
+The chess contain all rules that are required for the average playing experience :
 - Performing only legal moves
 - Capturing when possible (including en-passant)
 - Castling
