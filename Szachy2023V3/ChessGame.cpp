@@ -3,7 +3,7 @@
 #include "sfmlObjects.h"
 #include <thread>
 #include <chrono>
-
+#include "drawing.h"
 
 ChessGame::ChessGame()
 {
@@ -74,6 +74,8 @@ bool ChessGame::isEndOfGame()
 
 	if (chess.winner != none)
 	{
+		window.clear();
+		myDraw();
 		displayEndScreen();
 		return true;
 	}

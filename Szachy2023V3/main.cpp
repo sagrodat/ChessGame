@@ -13,7 +13,6 @@
 using namespace std;
 using namespace sf;
 
-//load assets from executable path using ModuleFileNameA
 int main()
 {
 	
@@ -30,10 +29,6 @@ int main()
 				{
 					chess.revertMove(chess.moveLog.popLastMove());
 					chess.switchTurns();
-				}
-				if (Keyboard::isKeyPressed(Keyboard::K))
-				{
-					//printer.printPossibleMoves(chess.pieces.blackKnight1);
 				}
 				break;
 			case Event::Closed :
